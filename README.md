@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivank Srivastava @shivank44
-- 👀 I’m interested in Laravel,Node Js
+- 👀 I’m interested in Laravel,Node Js,Vue Js,Puppeteer
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me https://www.linkedin.com/in/shivank44
 
